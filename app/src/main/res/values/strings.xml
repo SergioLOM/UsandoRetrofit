@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Usando Retrofit</string>
+    <string name="listar">Listar</string>
+</resources>
